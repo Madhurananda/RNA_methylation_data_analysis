@@ -1,4 +1,4 @@
-NanoCNN – A CNN-Based Tool to Detect RNA m⁶A Methylations Using Oxford Nanopore Sequencing
+# NanoCNN – A CNN-Based Tool to Detect RNA m⁶A Methylations Using Oxford Nanopore Sequencing
 
 [![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.6.0-red.svg)](https://pytorch.org/)
